@@ -1,2 +1,2 @@
 # TuringNetwork
-An Artificial Intelligence platform
+Website for An Artificial Intelligence platform
